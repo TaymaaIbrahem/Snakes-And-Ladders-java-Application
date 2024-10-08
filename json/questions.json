@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "What is true about agile?",
+      "answers": [
+        "Iterative, time-boxed software delivery, building incrementally",
+        "breaks projects into user stories, prioritizes, delivers.",
+        "both answers are true",
+        "both answers are false "
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "what is the AGILE APPROACH?",
+      "answers": [
+        "Quality improves because testing starts from day one. ",
+        "Visibility doesn't improve by building half the features ",
+        "Risk is reduced because you are getting feedback lately. ",
+        "Customers are happy because they can make changes with paying exorbitant costs. "
+      ],
+      "correct_ans": "1",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is goal of SRR?",
+      "answers": [
+        "Verification that all system requirements are clearly defined and formulated",
+        "Make sure the supplier fully understands the requirements",
+        "both answers are true",
+        "both answers are false "
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "what is defined as a mistake in SSR?",
+      "answers": [
+        "Missing requirements",
+        "Partial requirements",
+        "Conflicting requirements",
+        "all the answers are true "
+      ],
+      "correct_ans": "4",
+      "difficulty": "3"
+    },
+    {
+      "question": "What is true about reviews?",
+      "answers": [
+        "Reviewer wrote code and asked for review",
+        "Developers review and report code findings to developer.",
+        "both answers is true",
+        "both answers is false "
+      ],
+      "correct_ans": "4",
+      "difficulty": "2"
+    },
+    {
+      "question": "Why do we need code review?",
+      "answers": [
+        "Mistakes are caught before they become part of the product. ",
+        "Repetitive code blocks can be caught and refactored",
+        "Ensures code aligns with organization's coding standards. ",
+        "all the answers are true "
+      ],
+      "correct_ans": "4",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is true about the average defect detection rate?",
+      "answers": [
+        "75% for unit testing.",
+        "35% for function testing.",
+        "15% for integration testing.",
+        "Design and code inspections: 20% and 30%. "
+      ],
+      "correct_ans": "2",
+      "difficulty": "3"
+    },
+    {
+      "question": " What is true about design patterns ?",
+      "answers": [
+        "Observer pattern avoids objects requesting change notifications. ",
+        "Static Factory creates objects, adaptable for subclassing applications.",
+        "Factory method is used when Products need to know how they are created. ",
+        "all the answers are true "
+      ],
+      "correct_ans": "2",
+      "difficulty": "3"
+    },
+    {
+      "question": "Which design pattern allows us to create object without specifying the exact class?",
+      "answers": [
+        "Factory ",
+        "Observer",
+        "Singleton",
+        "all the answers are false"
+      ],
+      "correct_ans": "1",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is patterns Categories in design pattern?",
+      "answers": [
+        "Creational,Structural,Behavioural and Concurrency pattern",
+        "Creational,Structural,non structural and Concurrency pattern",
+        "Destructive,Structural,Behavioural and Concurrency pattern",
+        "all answers are false "
+      ],
+      "correct_ans": "1",
+      "difficulty": "1"
+    },
+    {
+      "question": "What are test cases?",
+      "answers": [
+        "document describes how we gonna come up with testing for a particular application. ",
+        "There are various fields which should be included in a test case document. ",
+        "Fields may vary from organization to organization.",
+        "all the answers are true "
+      ],
+      "correct_ans": "4",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is true about JUNIT?",
+      "answers": [
+        "an open-source framework designed for writing and running tests in the Java",
+        "has a (GUI), making it unpossible to write and test source code quickly and easily. ",
+        "doesn’t allow the developer to build test to detect unintended side effects",
+        "Multiple tests can’t be run concurrently"
+      ],
+      "correct_ans": "1",
+      "difficulty": "3"
+    },
+    {
+      "question": "What is software maintenance?",
+      "answers": [
+        "The initial development phase of software",
+        "The process of fixing bugs and making enhancements after deployment",
+        "The documentation of software requirements",
+        "The testing phase of software development"
+      ],
+      "correct_ans": "2",
+      "difficulty": "1"
+    },
+    {
+      "question": "Why is software maintenance important?",
+      "answers": [
+        "To minimize stakeholder involvement",
+        "To avoid the need for updates",
+        "To ensure that the software remains usable and secure over time",
+        "To limit communication with end-users"
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is true about agile?",
+      "answers": [
+        "answer1",
+        "answer2",
+        "answer3",
+        "answer4"
+      ],
+      "correct_ans": "1",
+      "difficulty": "1"
+    }
+  ]
+}
