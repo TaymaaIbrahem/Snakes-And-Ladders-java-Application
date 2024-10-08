@@ -1,4 +1,4 @@
-# Creating the description for the Snakes and Ladders Java application in Markdown format
+# Creating the description for the Snakes and Ladders Java application 
 md_content = """
 # Snakes and Ladders Game (Java Application)
 
@@ -29,9 +29,3 @@ Welcome to **Snakes and Ladders**, a classic board game brought to life in a fun
 Enjoy playing **Snakes and Ladders** and may luck be on your side!
 """
 
-# Saving to a Markdown (.md) file
-file_path = "/mnt/data/Snakes_and_Ladders_Description.md"
-with open(file_path, "w") as file:
-    file.write(md_content)
-
-file_path
