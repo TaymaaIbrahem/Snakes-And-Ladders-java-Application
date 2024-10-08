@@ -5,7 +5,6 @@ Welcome to **Snakes and Ladders**, a classic board game brought to life in a fun
 ## Features:
 - **Interactive Gameplay**: Roll the dice and watch your game piece move across the board.
 - **Multiplayer Support**: Play with up to 4 players on the same board.
-- **Randomized Dice Rolls**: Experience an unpredictable and exciting race to the finish line.
 
 ## How to Play:
 1. **Download the Code**: Get the source code from the provided repository.
@@ -25,5 +24,4 @@ Welcome to **Snakes and Ladders**, a classic board game brought to life in a fun
      ```
 
 Enjoy playing **Snakes and Ladders** and may luck be on your side!
-"""
 
