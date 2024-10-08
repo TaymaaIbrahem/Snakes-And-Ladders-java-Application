@@ -1,4 +1,3 @@
-# Creating the description for the Snakes and Ladders Java application 
 # Snakes and Ladders Game (Java Application)
 
 Welcome to **Snakes and Ladders**, a classic board game brought to life in a fun and interactive Java application! This game stays true to the traditional rules of Snakes and Ladders, where players roll dice to race across the board, avoiding snakes that bring them down and climbing ladders to advance faster.
